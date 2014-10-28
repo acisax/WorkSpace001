@@ -1,4 +1,4 @@
 testWorkspace
 =============
 
-the smart python tools colection
+测试文件比较功能
